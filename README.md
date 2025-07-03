@@ -4,6 +4,7 @@ Performed analysis on 1000 entries of coffee sales data from 2019 to 2022 and vi
 - Total Sales Over Time
 - Sales by Country
 - Top 5 Customers
+
 These visualizations can be filtered by:
 - Time
 - Coffee Roast Type: Dark, Light, Medium
