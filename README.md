@@ -24,4 +24,4 @@ My analysis workflow:
    - Create slicers to make the dahsboard interactive
    - Organize slicers and graphs to complete the dashboard
   
-   - 
+   
